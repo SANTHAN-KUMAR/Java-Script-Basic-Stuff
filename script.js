@@ -1,4 +1,1 @@
-function myFunc() {
-let x=10;
-alert(x);
-}
+alert("new page loaded ra chosoosh");
