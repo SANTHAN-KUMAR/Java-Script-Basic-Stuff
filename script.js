@@ -52,3 +52,18 @@ document.body.innerHTML=Array.isArray(arr) + '<br>' +
 Array.isArray(obj);;
 
 */
+
+
+/* 5th question solution :
+
+function classify(value) {
+  return Object.prototype.toString.call(value);
+}
+const arr=[1,2,3];
+const obj={
+  "kunj_id":123, "kunj_ph":3373
+};
+document.body.innerHTML=classify("Santhan");
+
+
+*/
