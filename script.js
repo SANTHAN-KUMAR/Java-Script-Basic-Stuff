@@ -67,3 +67,42 @@ document.body.innerHTML=classify("Santhan");
 
 
 */
+
+
+/*
+const arr=[1,2,3];
+
+function sum(array) {
+  let sum=0;
+  for (let i=0;i<array.length;i++) {
+    sum+=array[i];
+  }
+  return sum;
+}
+document.body.innerHTML=sum(arr);
+
+*/
+
+
+////////    FIZZ BUZZZZ      ////////////
+
+
+function fizzbuzz(n) {
+  let arr=[];
+  for (let i=1;i<=n;i++) {
+    if (i%3==0 && i%5==0) {
+      arr.push("FizzBuzz");
+    }
+    else if (i%3==0) {
+      arr.push("Fizz");
+    }
+    else if (i%5==0) {
+      arr.push("Buzz");
+    }
+    else {
+      arr.push(i.toString());
+    }
+  }
+  return arr;
+}
+document.body.innerHTML=fizzbuzz(15);
