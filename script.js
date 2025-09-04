@@ -87,6 +87,8 @@ document.body.innerHTML=sum(arr);
 ////////    FIZZ BUZZZZ      ////////////
 
 
+/* LEETCODE - FIZZBUZZZZZZZZZZZ
+
 function fizzbuzz(n) {
   let arr=[];
   for (let i=1;i<=n;i++) {
@@ -106,3 +108,21 @@ function fizzbuzz(n) {
   return arr;
 }
 document.body.innerHTML=fizzbuzz(15);
+
+*/
+
+
+/* 4th question solution :
+function add(a,b) {
+  return a+b;
+}
+
+const subtraction = function sub(b,c) {
+  return b-c;
+}
+
+const division = (x,y) => x/y;
+
+document.body.innerHTML=typeof add+ '<br>' + typeof division + '<br>' + typeof subtraction;
+
+*/
