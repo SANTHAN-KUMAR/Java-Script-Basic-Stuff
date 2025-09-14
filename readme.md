@@ -5,23 +5,23 @@ Perfect for **interview preparation** or **self-assessment**.
 
 ---
 
-## 🔰 Beginner Level: The Basics
+## 🔰 Beginner Level: The Basics (Done)
 These questions cover the absolute fundamentals of the language.
 
-### Variables and Data Types
+### Variables and Data Types (Done)
 - Declare variables using `var`, `let`, and `const`. Explain the differences in scope and re-assignability.
 - Create a variable for each primitive data type: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`, and `bigint`.
 - Use the `typeof` operator to check the data type of each variable. Why does `typeof null` return `"object"`?
 - Explain the difference between `==` (loose equality) and `===` (strict equality). Provide an example where they produce different results.
 - What is **type coercion**? Give an example of implicit and explicit coercion.
 
-### Operators and Expressions
+### Operators and Expressions (Done)
 - Perform a series of arithmetic operations (`+`, `-`, `*`, `/`, `%`, `**`) and store the results.
 - Explain the difference between `i++` and `++i`.
 - Write an expression using logical operators (`&&`, `||`, `!`) to check if a number is between 10 and 20.
 - Use the ternary operator as a shorthand for a simple if/else statement.
 
-### Control Flow
+### Control Flow (Done)
 - Write an if/else statement to check if a number is positive, negative, or zero.
 - Use a `switch` statement to handle different user roles (e.g., `'admin'`, `'editor'`, `'guest'`). Include a default case.
 - Write a `for` loop that prints numbers from 1 to 10.
@@ -30,7 +30,7 @@ These questions cover the absolute fundamentals of the language.
 
 ---
 
-## 🔷 Intermediate Level: Core Concepts
+## 🔷 Intermediate Level: Core Concepts (Yet to do)
 This section covers concepts essential for building applications.
 
 ### Functions
